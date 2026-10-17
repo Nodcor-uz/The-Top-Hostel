@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "The Top Hostel",
+      "hasCanvas": false,
+      "bodyTextLen": 4231,
+      "bodyTextHash": "79061d15d5142ecc0d3c366095544a88058ce2e73a03d789a2751d25beb9b182",
+      "bodyTextPrefix": "Комнаты The Top UZ RU EN Оставить заявку Дом Комнаты Галерея Ряд",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "The Top Hostel",
+      "hasCanvas": false,
+      "bodyTextLen": 4200,
+      "bodyTextHash": "542b5061d73a6107054df642de6597ee39ae973d90c1355c6dbf395226e285af",
+      "bodyTextPrefix": "Комнаты The Top UZ RU EN Дом Комнаты Галерея Рядом Заявка День Н",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
